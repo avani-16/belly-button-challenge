@@ -44,6 +44,7 @@ The following task is advanced and therefore optional.
 * You will need to modify the example gauge code to account for values ranging from 0 through 9.
 
 * Update the chart whenever a new sample is selected.
+* An example dashboard for ID: 940 is shown below:
 
 ![Weekly Washing Frequency](Image/dashboard.png)
 
